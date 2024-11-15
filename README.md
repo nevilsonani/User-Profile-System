@@ -1,7 +1,4 @@
-﻿This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-#Must Installed Node Modules first which are being used in this project
 ## Available Scripts
 
 In the project directory, you can run:
